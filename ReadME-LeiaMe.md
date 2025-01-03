@@ -1,10 +1,10 @@
 (EN)
 Creating Ransomware Code in a Controlled Environment for Educational Purposes!
-Important Notice: This text was created solely to explore cybersecurity concepts in a controlled environment for ethical hacking purposes. Ransomware is a malicious tool that, when misused, can cause severe harm. Any improper use of this type of technology is illegal and may lead to criminal penalties. Studying ransomware is allowed exclusively as part of specific ethical training, within secure and controlled environments, and in compliance with local laws
+Important Notice: This code was created solely to explore cybersecurity concepts in a controlled environment for ethical hacking purposes. Ransomware is a malicious tool that, when misused, can cause severe harm. Any improper use of this type of technology is illegal and may lead to criminal penalties. Studying ransomware is allowed exclusively as part of specific ethical training, within secure and controlled environments, and in compliance with local laws
 
 (PT)
 Criação de Código Ransomware em Ambiente Controlado para Fins Educacionais!
-Aviso Importante: Este texto foi elaborado com o único propósito de explorar conceitos de cibersegurança em ambiente controlado para hacker ético. Ransomwares são ferramentas maliciosas que, quando usadas de forma inadequada, podem causar danos severos. Qualquer uso indevido desse tipo de tecnologia é ilegal e pode resultar em penalidades criminais. O estudo de ransomware é permitido exclusivamente como parte de treinamentos éticos específicos, dentro de ambientes seguros e controlados, em conformidade com as leis locais.
+Aviso Importante: Este código foi elaborado com o único propósito de explorar conceitos de cibersegurança em ambiente controlado para hacker ético. Ransomwares são ferramentas maliciosas que, quando usadas de forma inadequada, podem causar danos severos. Qualquer uso indevido desse tipo de tecnologia é ilegal e pode resultar em penalidades criminais. O estudo de ransomware é permitido exclusivamente como parte de treinamentos éticos específicos, dentro de ambientes seguros e controlados, em conformidade com as leis locais.
 
 (EN)
 Ransomware is a type of malicious software designed to encrypt files on a target system and then demand payment (ransom) to unlock the data. In the context of cybersecurity education, it’s essential for ethical hackers to understand how these threats work to create effective countermeasures.
