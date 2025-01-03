@@ -1,0 +1,5 @@
+(EN)
+If you can read what is written it’s because this file is decrypted
+
+(PT)
+Se você consegue ler o que está escrito é porque este arquivo está descriptografado
